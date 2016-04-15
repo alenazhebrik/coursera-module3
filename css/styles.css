@@ -1,0 +1,45 @@
+/*+*/
+/** HEADER **/
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+/*+*/
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.2em;
+  font-family:corbel,sans-serif;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.row {
+    margin: 20px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+
+.page-header {
+    border-bottom: none;
+}
+/*style for My Menu*/
+section > p {
+    font-size: 30px;
+    color: #777;
+}
+a, a:focus, a:hover {
+    color: #777;
+    text-decoration: none;
+}
+/*style for paragraphs headigns*/
+div > p {
+    color: #777;
+    font-size: 18px;
+    font-weight: bold;
+}
+.listStyle {
+    text-align: center;
+    font-size: 1.1em;
+}
+
